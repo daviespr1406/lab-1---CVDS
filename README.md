@@ -63,7 +63,11 @@
  
  9. Resuelvan el conflicto con IntelliJ si es posible 
 
+
  emily.norena-c@mail.escuelaing.edu.co
+
+ david.espinosa-r@mail.escuelaing.edu.co
+
 
  
 </br>
