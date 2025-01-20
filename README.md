@@ -62,6 +62,9 @@
  8. Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
  
  9. Resuelvan el conflicto con IntelliJ si es posible 
+ <image src="assets/13.png" alt="pantallazo de error">
+ <image src="assets/2.png" alt="pantallazo de error">
+
 
 
  emily.norena-c@mail.escuelaing.edu.co
