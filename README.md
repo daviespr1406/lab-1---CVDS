@@ -60,13 +60,10 @@
  8. Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
  
  9. Resuelvan el conflicto con IntelliJ si es posible 
-<<<<<<< HEAD
-
 
  david.espinosa-r@mail.escuelaing.edu.co
-=======
  emily.norena-c@mail.escuelaing.edu.co
->>>>>>> 9f1c8e1630d4fb7dbb96b9fa53295112be05325f
+
  
 </br>
 
