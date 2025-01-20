@@ -56,6 +56,8 @@
      Al subirlo al tiempo hubo un conflicto en el push que se hizo más tarde, pues al intentar hacer push al archivo los cambios se hacen sobre un archivo no actualizado es decir no se puede subir una modificación  de un archivo ya modificado
 
  7. La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos <<< === y >>> (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente.
+
+ <image src="/assets/1.jpg" alt="pantallazo de error">
  
  8. Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
  
