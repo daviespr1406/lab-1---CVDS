@@ -57,7 +57,7 @@
 
  7. La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos <<< === y >>> (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente.
 
- <image src="/assets/1.jpg" alt="pantallazo de error">
+ <image src="lab-1---CVDS/assets/1.png" alt="pantallazo de error">
  
  8. Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
  
