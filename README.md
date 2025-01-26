@@ -39,6 +39,9 @@
  
  # Parte 2
  ## parejas
+ ### integrantes
+ - Emily Noreña Cardozo
+ - David Santiago Espinosa Rojas
  Crea un repositorio localmente.
 
   1. Se escogen los roles para trabajar en equipo, una persona debe escoger ser "Owner" o Propietario del repositorio y la otra "Collaborator" o Colaborador en el repositorio.
@@ -65,7 +68,11 @@
  <image src="assets/13.png" alt="pantallazo de error">
  <image src="assets/2.png" alt="pantallazo de error">
 
-
+### Conclusiones
+- Git permite tener un control detallado de los cambios que se realizan a lo largo del tiempo.
+- Los comandos git add y git commit son fundamentales para capturar y organizar los cambios.
+- Los comandos git push y git pull es posible colaborar en proyectos compartidos y mantener los cambios sincronizados con los de otros miembros del equipo.
+- El comando git merge permite integrar de forma estructurada el trabajo de diferentes ramas.
 
  emily.norena-c@mail.escuelaing.edu.co
 
