@@ -70,7 +70,22 @@
  emily.norena-c@mail.escuelaing.edu.co
 
  david.espinosa-r@mail.escuelaing.edu.co
+ # Parte 3
+ ## parejas
+ 1. ¿Hay una mejor forma de trabajar con git para no tener conflictos?
+   
+   a traves del sistema de ramas o branches con pull request que tienen una revision exhaustive
 
+ 2. ¿Qué es y como funciona el Pull Request?
+
+   Un Pull Request (PR) es una solicitud para fusionar cambios de una rama a otra dentro de un repositorio de Git,El PR permite a otros desarrolladores revisar, comentar y aprobar los cambios antes de fusionarlos en la rama principal (main o develop).
+
+ 3. Creen una rama cada uno y suban sus cambios
+
+ 4. Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Request (PR) a la rama main/master
+
+ 5. Teniendo en cuenta la recomendación, mezclen los cambios a la rama main a través de PR con el check/review/approval del otro compañero (Cuando se hace merge se deberían borrar las ramas en github)
+ 
 
  
 </br>
