@@ -68,16 +68,7 @@
  <image src="assets/13.png" alt="pantallazo de error">
  <image src="assets/2.png" alt="pantallazo de error">
 
-### Conclusiones
-- Git permite tener un control detallado de los cambios que se realizan a lo largo del tiempo.
-- Los comandos git add y git commit son fundamentales para capturar y organizar los cambios.
-- Los comandos git push y git pull es posible colaborar en proyectos compartidos y mantener los cambios sincronizados con los de otros miembros del equipo.
-- El comando git merge permite integrar de forma estructurada el trabajo de diferentes ramas.
-
- emily.norena-c@mail.escuelaing.edu.co
-
- david.espinosa-r@mail.escuelaing.edu.co
- # Parte 3
+  # Parte 3
  ## parejas
  1. ¿Hay una mejor forma de trabajar con git para no tener conflictos?
    
@@ -89,9 +80,26 @@
 
  3. Creen una rama cada uno y suban sus cambios
 
+  <image src="assets/3.png" alt="pantallazo de error">
+
+
  4. Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Request (PR) a la rama main/master
 
+  <image src="assets/4.png" alt="pantallazo de error">
+
+
  5. Teniendo en cuenta la recomendación, mezclen los cambios a la rama main a través de PR con el check/review/approval del otro compañero (Cuando se hace merge se deberían borrar las ramas en github)
+
+### Conclusiones
+- Git permite tener un control detallado de los cambios que se realizan a lo largo del tiempo.
+- Los comandos git add y git commit son fundamentales para capturar y organizar los cambios.
+- Los comandos git push y git pull es posible colaborar en proyectos compartidos y mantener los cambios sincronizados con los de otros miembros del equipo.
+- El comando git merge permite integrar de forma estructurada el trabajo de diferentes ramas.
+
+ emily.norena-c@mail.escuelaing.edu.co
+
+ david.espinosa-r@mail.escuelaing.edu.co
+
  
 
  
