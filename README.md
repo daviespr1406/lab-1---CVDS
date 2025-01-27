@@ -11,7 +11,7 @@
 
 <!-- ABOUT THE PROJECT -->
 # Parte 1
-## individual
+## Individual
 
   1. Crea un repositorio localmente.
 
@@ -38,13 +38,14 @@
   9. Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub).
  
  # Parte 2
- ## parejas
- ### integrantes
+ ## Parejas
+ ### Integrantes
  - Emily Noreña Cardozo
  - David Santiago Espinosa Rojas
- Crea un repositorio localmente.
 
   1. Se escogen los roles para trabajar en equipo, una persona debe escoger ser "Owner" o Propietario del repositorio y la otra "Collaborator" o Colaborador en el repositorio.
+     
+     Propietario: David - Colaborador: Emily
 
   2. El owner agrega al colaborador con permisos de escritura en el repositorio que creó en la parte 1
 
@@ -58,7 +59,7 @@
 
      Al subirlo al tiempo hubo un conflicto en el push que se hizo más tarde, pues al intentar hacer push al archivo los cambios se hacen sobre un archivo no actualizado es decir no se puede subir una modificación  de un archivo ya modificado
 
- 7. La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos <<< === y >>> (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente.
+ 8. La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos <<< === y >>> (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente.
 
  <image src="assets/1.png" alt="pantallazo de error">
  
