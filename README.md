@@ -57,16 +57,18 @@
   
   6. ¿Que sucedió?
 
-     Al subirlo al tiempo hubo un conflicto en el push que se hizo más tarde, pues al intentar hacer push al archivo los cambios se hacen sobre un archivo no actualizado es decir no se puede subir una modificación  de un archivo ya modificado
+     Al subirlo al tiempo hubo un conflicto en el push que se hizo más tarde, pues al intentar hacer push al archivo los cambios se hacen sobre un archivo no actualizado, es decir no se puede subir una modificación  de un archivo ya modificado.
 
  8. La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos <<< === y >>> (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente.
 
- <image src="assets/1.png" alt="pantallazo de error">
- 
+<div align="center">
+  <image src="assets/1.png" alt="pantallazo de error">
+</div>
+
  8. Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
  
  9. Resuelvan el conflicto con IntelliJ si es posible 
- <image src="assets/13.png" alt="pantallazo de error">
+<image src="assets/13.png" alt="pantallazo de error">
  <image src="assets/2.png" alt="pantallazo de error">
 
   # Parte 3
